@@ -4,14 +4,14 @@ Pacific,Alaska,1434.0,582.0,735139
 Mountain,Arizona,7259.0,2606.0,7158024
 West South Central,Arkansas,2280.0,432.0,3009733
 Pacific,California,109008.0,20964.0,39461588
-           Mountain,Colorado,7607.0,3250.0,5691287
-        New England,Connecticut,2280.0,1696.0,3571520
-      South Atlantic,Delaware,708.0,374.0,965479
-      South Atlantic,District of Columbia,3770.0,3134.0,701547
-      South Atlantic,Florida,21443.0,9587.0,21244317
-     South Atlantic,Georgia,6943.0,2556.0,10511131
-            Pacific,Hawaii,4131.0,2399.0,1420593
-            Mountain,Idaho,1297.0,715.0,1750536
+Mountain,Colorado,7607.0,3250.0,5691287
+New England,Connecticut,2280.0,1696.0,3571520
+South Atlantic,Delaware,708.0,374.0,965479
+South Atlantic,District of Columbia,3770.0,3134.0,701547
+South Atlantic,Florida,21443.0,9587.0,21244317
+ South Atlantic,Georgia,6943.0,2556.0,10511131
+Pacific,Hawaii,4131.0,2399.0,1420593
+Mountain,Idaho,1297.0,715.0,1750536
   East North Central,Illinois,6752.0,3891.0,12723071
   East North Central,               Indiana,       3776.0,          1482.0,    6695497
   West North Central,                  Iowa,       1711.0 ,         1038.0 ,   3148618
